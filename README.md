@@ -1,7 +1,7 @@
 ﻿# EmberVeins (余烬脉流) 设定库
 
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Status](https://img.shields.io/badge/Status-持续更新-orange.svg)
+![Status](https://img.shields.io/badge/Status-不定期更新-orange.svg)
 
 本仓库存储 **EmberVeins (余烬脉流)** 系列项目的完整世界观设定与叙事内容。
 
@@ -34,12 +34,12 @@
 
 ## 🗺️ 系列作品
 
-| 作品                                  | 类型    | 状态   | 时间线    |
-|-------------------------------------|-------|------|--------|
-| `Fount·Core Sequencer` (烬源·心枢测序)    | 控制台游戏 | 规划中  | 星陨纪元元年 |
-| `Fount·Trace Of Starfall` (烬源·星陨之痕) | 文艺作品  | 设定完成 | 星陨纪元早期 |
-| `StellarEmbers` (愿烬星迴)              | RPG游戏 | 主要开发 | 星陨纪元晚期 |
-| `Trace Of Wish` (愿之痕)               | 叙事CG  | 已完成  | 寓言性质   |
+| 作品                                  | 类型    | 状态      | 时间线    |
+|-------------------------------------|-------|---------|--------|
+| `Fount·Core Sequencer` (烬源·心枢测序)    | 控制台游戏 | 正在进行    | 星陨纪元元年 |
+| `Fount·Trace Of Starfall` (烬源·星陨之痕) | 文艺作品  | 规划中     | 星陨纪元早期 |
+| `StellarEmbers` (愿烬星迴)              | RPG游戏 | 规划中     | 星陨纪元晚期 |
+| `Trace Of Wish` (愿之痕)               | 叙事CG  | 文本内容已完成 | 寓言性质   |
 
 ## 🔄 更新状态
 
