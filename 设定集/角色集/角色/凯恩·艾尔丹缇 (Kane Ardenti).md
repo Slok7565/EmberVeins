@@ -38,3 +38,7 @@
     * 与**空烬团**：重要的经济支柱
 
 #### 灵感：[Among us(Xiezibanwrite)](https://github.com/XiezibanWrite)
+
+### 文档信息
+**创作日期**：2025-12-14
+**最后更新**：2026-01-25
